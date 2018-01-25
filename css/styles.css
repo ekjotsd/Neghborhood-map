@@ -1,0 +1,55 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+#map {
+    margin: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: -4;
+}
+
+#pano {
+    width: 170px;
+    height: 170px
+}
+/*styling nav bar*/
+.navbar {
+    border-radius: 1px;
+    margin-bottom: 0;
+}
+/*styling title in nav bar*/
+.navTitle {
+    font-size: 29px;
+    text-transform: uppercase;
+    color: mehrooon;
+}
+/*styling side bar*/
+.sidebar {
+    margin: 0;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+/* styling list in side bar*/
+.list-group-item {
+    margin: 0;
+    color: black;
+    border-left: solid;
+    border-bottom: solid;
+}
+/*when sidebar is at focus*/
+.list-group-item:focus {
+    color: #fff;
+    background-color: rgb(34, 34, 34);
+    /*border-color: rgb(34, 34, 34);*/
+}
+/* when mouse come over side bar */
+.list-group-item:hover {
+    color: #f5f5f5;
+    background-color: #999;
+}
