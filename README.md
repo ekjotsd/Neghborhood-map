@@ -1,1 +1,1 @@
-![alt text](https://github.com/deep6750/Full-Stack-Web-Development-NanoDegree/blob/master/nano.jpg)
+![alt text](https://github.com/ekjotsd/Outsystems-certification/blob/master/ekjot%20singh%20OutSystems%20Certificate.pdf)
