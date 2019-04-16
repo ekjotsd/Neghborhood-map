@@ -1,1 +1,1 @@
-![alt text](https://github.com/ekjotsd/Outsystems-certification/blob/master/ekjot%20singh%20OutSystems%20Certificate.pdf)
+![alt text](ekjot singh OutSystems Certificate_page-0001.jpg)
